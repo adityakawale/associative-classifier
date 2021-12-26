@@ -1,0 +1,15 @@
+﻿RID,Age,Income,Student,Credit_Rating,Buys_Computer
+1,20,high,no,fair,no
+2,26,high,no,excellent,no
+3,35,high,no,fair,yes
+4,42,medium,no,fair,yes
+5,43,low,yes,fair,yes
+6,41,low,yes,excellent,no
+7,40,low,yes,excellent,yes
+8,30,medium,no,fair,no
+9,29,low,yes,fair,yes
+10,50,medium,yes,fair,yes
+11,30,medium,yes,excellent,yes
+12,35,medium,no,excellent,yes
+13,35,high,yes,fair,yes
+14,42,medium,no,excellent,no
